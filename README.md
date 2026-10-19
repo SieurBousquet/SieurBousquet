@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello I'm Augustin Bousquet
+
+I'm a second year Master student studying Ecotoxicology ☠️🟣, and currently in an internship in the [LIEC](https://liec.univ-lorraine.fr/) laboratory, Metz, France about bio-modeling 🧮 and transcriptomics 🧬🔬 !
+
+### Check out my :
+[![Website](https://img.shields.io/badge/Website-%23EED7FA?style=for-the-badge&color=%236F2B99)](https://sieurbousquet.github.io/website/)
+[![ORCID](https://img.shields.io/badge/ORCID-olivegreen?style=for-the-badge&logo=orcid&color=%23F6FAEB&link=https%3A%2F%2Forcid.org%2F0009-0000-0617-1925)](https://orcid.org/0009-0000-0617-1925)
+
 
 <!--
 **SieurBousquet/SieurBousquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
